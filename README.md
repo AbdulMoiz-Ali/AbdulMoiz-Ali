@@ -1,22 +1,5 @@
 <!-- ****************** шапка ****************** -->
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzF0amx5eW1hOGVrOTN3YWRwcWNsM2RjNXV4eTMwYWdrOHFwN2YweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="150"/>
-</div>
-
-<div id="badges" align="center">
-  <a href="https://t.me/cute_ass_ducks">
-    <img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" alt="Telegram Badge" width="40" height="40"/>
-  </a>
-  <a href="https://vk.com/google_was_my_idea">
-    <img src="https://img.icons8.com/?size=100&id=13977&format=png&color=000000" alt="VK Badge" width="40" height="40" />
-  </a>
-</div>
-
-<div id="views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shipy4kaRU&style=flat-square&color=blue" alt=""/>
-</div>
-
-<div id="header" align="center">
   <h1>Hi there, I'm Moiz ALi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 </div>
 
@@ -39,6 +22,24 @@ I am an Intern Frontend Developer <img src="https://media.giphy.com/media/WUlplc
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
+
+  <div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzF0amx5eW1hOGVrOTN3YWRwcWNsM2RjNXV4eTMwYWdrOHFwN2YweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="150"/>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://t.me/cute_ass_ducks">
+    <img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" alt="Telegram Badge" width="40" height="40"/>
+  </a>
+  <a href="https://vk.com/google_was_my_idea">
+    <img src="https://img.icons8.com/?size=100&id=13977&format=png&color=000000" alt="VK Badge" width="40" height="40" />
+  </a>
+</div>
+
+<div id="views" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shipy4kaRU&style=flat-square&color=blue" alt=""/>
+</div>
+
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shipy4kaRU&theme=highcontrast&border_radius=8)](https://git.io/streak-stats)  
