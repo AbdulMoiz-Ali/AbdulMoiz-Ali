@@ -5,7 +5,7 @@
 
 <!-- ****************** обо мне ****************** -->
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="700" height="300"/>
 </div>
 
 ### :woman_technologist: About Me :
@@ -23,9 +23,9 @@ I am an Intern Frontend Developer <img src="https://media.giphy.com/media/WUlplc
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
 
-  <div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzF0amx5eW1hOGVrOTN3YWRwcWNsM2RjNXV4eTMwYWdrOHFwN2YweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="900" height="150"/>
-</div>
+</div> -->
 
 <div id="badges" align="center">
   <a href="https://t.me/cute_ass_ducks">
