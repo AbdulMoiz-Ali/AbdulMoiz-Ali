@@ -24,7 +24,7 @@ I am an Intern Frontend Developer <img src="https://media.giphy.com/media/WUlplc
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
 
   <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzF0amx5eW1hOGVrOTN3YWRwcWNsM2RjNXV4eTMwYWdrOHFwN2YweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" hight="30"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzF0amx5eW1hOGVrOTN3YWRwcWNsM2RjNXV4eTMwYWdrOHFwN2YweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="500" hight="30"/>
 </div>
 
 <div id="badges" align="center">
