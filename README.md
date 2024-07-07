@@ -33,9 +33,9 @@
   </a>
 </div>
 
-<div id="views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shipy4kaRU&style=flat-square&color=blue" alt=""/>
-</div>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=AbdulMoiz-Ali&label=&color=2&icon=5&pretty=true" />
+</a>
 
 
 ### :fire: My Stats :
