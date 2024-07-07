@@ -31,9 +31,9 @@
   <a href="#">
     <img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" alt="Telegram Badge" width="40" height="40"/>
   </a>
-  <a href="#">
-    <img src="https://img.icons8.com/?size=100&id=13977&format=png&color=000000" alt="VK Badge" width="40" height="40" />
-  </a>
+  <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=AbdulMoiz-Ali&label=&color=2&icon=5&pretty=true" />
+</a>
 </div>
 
 <div id="views" align="center">
