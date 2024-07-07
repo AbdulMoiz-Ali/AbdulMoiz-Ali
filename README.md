@@ -27,11 +27,6 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzF0amx5eW1hOGVrOTN3YWRwcWNsM2RjNXV4eTMwYWdrOHFwN2YweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="900" height="150"/>
 </div> -->
 
-<div id="badges" align="center">
-  <a href="#">
-    <img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" alt="Telegram Badge" width="40" height="40"/>
-  </a>
-</div>
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=AbdulMoiz-Ali&label=&color=2&icon=5&pretty=true" />
