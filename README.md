@@ -18,10 +18,6 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-
-### :hammer_and_wrench: Languages and Tools :
-
-
 ## 🛠️ Languages and Tools
 
 ![Languages and Tools](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,express,postgres,mongodb,git,github,java,python,docker,aws)
@@ -32,7 +28,7 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="60%">
+<table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ikuzweshema&show_icons=true&count_private=true&hide_border=true&bg_color=000000" align="left" style="width: 100%" />
 
